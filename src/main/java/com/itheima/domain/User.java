@@ -8,7 +8,7 @@ import java.util.List;
  * @author 黑马程序员
  * @Company http://www.ithiema.com
  */
-public class User implements Serializable {
+public class User implements  Serializable {
 
     private Integer id ;
     private String username ;
