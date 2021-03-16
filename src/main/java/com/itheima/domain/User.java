@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class User implements  Serializable {
 
-    private Integer id ;
+    private Integer id  ;
     private String username ;
     private String address;
     private String sex;
